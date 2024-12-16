@@ -1,0 +1,1 @@
+This repository demonstrates a common Scala programming error related to immutability.  The example shows how a seemingly straightforward `val` field can lead to subtle but important behavior differences from what a developer new to the language might expect.
